@@ -1,2 +1,2 @@
 # User-Interface
-Helpful user interface elements and components
+Helpful user interface elements, patterns and components
